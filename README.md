@@ -1,4 +1,4 @@
-# TCSS360_Project
+# Trivia Maze
 Nintendo Karuta Trivia Maze
 
 
